@@ -1,0 +1,1 @@
+# SimplicoAI GitHub Actions
