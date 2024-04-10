@@ -1,0 +1,1 @@
+FROM guyal/simplico:simulation-v1 AS simplico-ai-action
